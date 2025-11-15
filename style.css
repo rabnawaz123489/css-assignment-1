@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    background-color: lightblue;
+}
+.first {
+    color: aqua;
+}
+.second {
+    color: yellow;
+    background-color: rgb(160, 160, 27);
+}
+.third {
+    background-color: lightgreen;
+}
