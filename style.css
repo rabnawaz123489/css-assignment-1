@@ -1,14 +1,21 @@
+* {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
 h1 {
     color: blue;
-    background-color: lightblue;
+    text-align: center;
+    text-decoration: underline;
 }
 .first {
-    color: aqua;
+    font-style: italic;
 }
 .second {
-    color: yellow;
-    background-color: rgb(160, 160, 27);
+    font-style: oblique;
 }
 .third {
-    background-color: lightgreen;
+    text-shadow: 2px 2px 2px ;
+}
+.fourth {
+    font-weight: bold;
 }
